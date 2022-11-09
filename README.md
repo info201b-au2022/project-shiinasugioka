@@ -4,7 +4,7 @@
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md)
 
 
-Edits in Atom :)
+Edits in Atom :) hi its me again
 
 |Project Directories | Brief Description|
 |---------------| -----------------|
