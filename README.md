@@ -8,6 +8,7 @@
 
 atom edits...
 
+Hi this is testing merge errors
 
 |Project Directories | Brief Description|
 |---------------| -----------------|
