@@ -3,7 +3,7 @@
 
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md)
 
-edits from main branch edits from shiina branch yay
+got rid of text in github page
 
 |Project Directories | Brief Description|
 |---------------| -----------------|
