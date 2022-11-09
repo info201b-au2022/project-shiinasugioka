@@ -3,6 +3,9 @@
 
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md)
 
+
+Edits in Atom :)
+
 |Project Directories | Brief Description|
 |---------------| -----------------|
 |[`/data`](./data) | All project datasets should be stored and documented here. For example, if you work with Common Separated Value (.cvs) datasets, they would stored here and documented in this directory's README.md file. Similarly, if you get data from web APIs, you would document the APIs in the directory's `README.md`.
