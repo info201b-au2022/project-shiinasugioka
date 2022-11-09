@@ -3,6 +3,7 @@
 
 *P01: Project Proposal*: [Project Proposal Title - Edit Me!](./docs/p01-proposal.md) 
 
+Hi this is testing merge errors
 
 |Project Directories | Brief Description|
 |---------------| -----------------|
